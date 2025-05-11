@@ -1,12 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### This is my Portfolio Website 👋
 
-
-### This Project is buld using :
+### This Project is built using :
 React-JS, GSAP, Framer-Motion, node-sass, Parallax-JS and some npm packages.
-
-<a href="https://wasiqabdullah-portfolio-f219a.web.app/" target="_blank">Click to View My Portfolio Website</a>
 
 ## Available Scripts
 
